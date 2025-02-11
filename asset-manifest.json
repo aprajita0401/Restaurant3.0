@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Restaurant3.0/static/css/main.ca57ade1.css",
+    "main.js": "/Restaurant3.0/static/js/main.4179bd6e.js",
+    "static/js/453.79293e11.chunk.js": "/Restaurant3.0/static/js/453.79293e11.chunk.js",
+    "static/media/ramen.png": "/Restaurant3.0/static/media/ramen.216ca3f8a34470b33695.png",
+    "static/media/Indianbread.png": "/Restaurant3.0/static/media/Indianbread.5285a235b7514dde123b.png",
+    "static/media/pasta.png": "/Restaurant3.0/static/media/pasta.210ab2be892547fd5faa.png",
+    "static/media/sabji.png": "/Restaurant3.0/static/media/sabji.de72397f394443924207.png",
+    "static/media/pizza.png": "/Restaurant3.0/static/media/pizza.3a24c78f6a88322bb88d.png",
+    "static/media/tikkamasala.png": "/Restaurant3.0/static/media/tikkamasala.fb1e212319b9aa8a6271.png",
+    "static/media/burger.png": "/Restaurant3.0/static/media/burger.099402d8696d117fa459.png",
+    "static/media/paneertikka.png": "/Restaurant3.0/static/media/paneertikka.7463fef7eb151db006fe.png",
+    "static/media/logo_3.png": "/Restaurant3.0/static/media/logo_3.883ce4f40d1b8474e326.png",
+    "static/media/tasty.png": "/Restaurant3.0/static/media/tasty.a271ca99347e06c4495f.png",
+    "static/media/scenic.webp": "/Restaurant3.0/static/media/scenic.45a76817a09af193d0f8.webp",
+    "static/media/x.png": "/Restaurant3.0/static/media/x.ab1bf298218684bb5b1e.png",
+    "static/media/whatsapp.png": "/Restaurant3.0/static/media/whatsapp.d707eea4c4f43482f43e.png",
+    "static/media/GitHub.png": "/Restaurant3.0/static/media/GitHub.32b654a5138d04d32ae4.png",
+    "static/media/insta.png": "/Restaurant3.0/static/media/insta.a317648f7b0b74626ef9.png",
+    "static/media/background.png": "/Restaurant3.0/static/media/background.fb8dde9d4d4de05fefd1.png",
+    "index.html": "/Restaurant3.0/index.html",
+    "main.ca57ade1.css.map": "/Restaurant3.0/static/css/main.ca57ade1.css.map",
+    "main.4179bd6e.js.map": "/Restaurant3.0/static/js/main.4179bd6e.js.map",
+    "453.79293e11.chunk.js.map": "/Restaurant3.0/static/js/453.79293e11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57ade1.css",
+    "static/js/main.4179bd6e.js"
+  ]
+}
